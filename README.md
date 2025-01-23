@@ -34,5 +34,3 @@ Pastikan Anda memiliki:
 
 ---
 
-
-Dengan tampilan ini, README menjadi lebih rapi, informatif, dan mudah dibaca. 😊
